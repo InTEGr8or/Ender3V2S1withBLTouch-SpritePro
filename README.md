@@ -4,6 +4,8 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/mriscoc/Ender3V2S1.svg)
 [![Build Status](https://github.com/mriscoc/Ender3V2S1/workflows/CI/badge.svg?branch=Ender3V2S1-Released)](https://github.com/mriscoc/Ender3V2S1/actions)
 
+NOTE: This is my fine-tuned version of the MRiscoC firmware for my Ender 3 V2 with BL Touch and Sprite Pro extruder.
+
 ## Universal RET6/RCT6 Edition
 
 The Precompiled binary files of this firmware can work with STM32FX RET6 or RCT6 and can be downloader from:
