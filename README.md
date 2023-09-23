@@ -6,6 +6,8 @@
 
 NOTE: This is my fine-tuned version of the MRiscoC firmware for my Ender 3 V2 with BL Touch and Sprite Pro extruder.
 
+NOTE: Be sure to measuer your PROBE_TO_NOZZLE_Z_OFFSET before printing. Mine is -4.60 for my BL Touch on my Sprite Pro Extruder, but you should measure yours so you don't run your nozzle into your bed. Set the Z to about 3 and then manually lower to Z=0 while measuring with a feeler guage or paper or mylar.
+
 ## Universal RET6/RCT6 Edition
 
 The Precompiled binary files of this firmware can work with STM32FX RET6 or RCT6 and can be downloader from:
